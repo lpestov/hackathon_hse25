@@ -6,6 +6,13 @@
 [Форма регистрации](https://docs.google.com/forms/d/e/1FAIpQLSfctfXZAeodAUzlbw7ZMr1M4445L849MRVswhWzpfqdwSqiDg/viewform?usp=dialog)
 ![Логотип GitHub](/logo.png)
 
+# Telegram bot for layouting dataset
+
+Реализация телеграм бота для раметки данных [тут](https://github.com/shonqwezon/LayoutBot).
+
+# Chroma files
+Скачать папки с [гугл диска](https://drive.google.com/drive/folders/1pXEkpxKMBy5KAK7nzd436ap8NQdw6qi0), используя gdown
+
 # 🚀 Hackathon Repo
 
 ## 🏆 **Добро пожаловать в репозиторий проекта от команды СП4!**
